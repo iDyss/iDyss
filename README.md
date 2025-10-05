@@ -2,7 +2,7 @@
 
 👀 Interests: Web Development & Software Engineering
 
-🌱 Currently Learning: C++ and Go (Golang)
+🌱 Currently Learning: java, C++ and Go (Golang)
 
 💡 Goal: Building efficient and scalable web applications
 
